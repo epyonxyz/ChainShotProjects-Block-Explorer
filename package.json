@@ -1,0 +1,25 @@
+{
+  "name": "block-explorer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "chakra": "0.0.3",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.5.1",
+    "parcel": "^2.0.0",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
